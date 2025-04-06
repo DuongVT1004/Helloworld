@@ -3,6 +3,7 @@
 #include "gpio.h"
 #include "spi.h"
 #include "wifi.h"
+#include "ota.h"
 
 int main() {
     printf("Hello world");
