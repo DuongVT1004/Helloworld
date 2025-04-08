@@ -7,3 +7,5 @@ int main() {
     printf("Hello world");
     return 0;
 }
+
+Da sua xong bug cua ver 1.0.1
